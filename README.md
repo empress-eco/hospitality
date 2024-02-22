@@ -1,8 +1,10 @@
 <div align="center">
   <img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="Hospitality Logo"/>
-</div>
+
 
 Hospitality is a powerful, user-friendly tool designed to streamline and simplify the management of hotels and restaurants. Whether you operate a chain of restaurants, a boutique hotel, or anything in between, Hospitality is designed to make your operations run smoothly.
+
+</div>
 
 ## Key Features :star2:
 
